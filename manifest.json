@@ -1,0 +1,13 @@
+{
+  "name": "Highflyer Casino",
+  "short_name": "Highflyer Casino",
+  "description": "Highflyer Casino – Play Legally in Canada | Ontario",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "type": "image/png"
+    }
+  ]
+}
